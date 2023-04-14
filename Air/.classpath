@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="dist/AirlineResevationSystem.jar"/>
+	<classpathentry exported="true" kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry exported="true" kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry exported="true" kind="lib" path="jcalendar-tz-1.3.3-4.jar/jcalendar-tz-1.3.3-4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
